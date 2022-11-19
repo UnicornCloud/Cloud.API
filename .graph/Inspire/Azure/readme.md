@@ -6,6 +6,8 @@ Home: https://www.youtube.com/@NTFAQGuy
 ## Azure
 - [Microsoft Azure Master Class](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
 - [Getting Started with Azure](https://www.youtube.com/playlist?list=PLlVtbbG169nETlTE5AsN-AZZllMzll5Sk)
+- [AZ-305 Design Azure Infrastructure Study Playlist](https://www.youtube.com/playlist?list=PLlVtbbG169nHSnaP4ae33yQUI3zcmP5nP)
+- [AZ-700 Study Playlist](https://www.youtube.com/playlist?list=PLlVtbbG169nGeFODKRZhjqdSxFpSPXVOa)
 - [AZ-900 Azure Fundamentals Certification Course](https://www.youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
 
 ## more:
