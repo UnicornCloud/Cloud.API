@@ -15,6 +15,9 @@ Home: https://www.youtube.com/@NTFAQGuy
 - [Microsoft Certification Exam Prep Videos](https://www.youtube.com/playlist?list=PLlVtbbG169nHz2qfLvPsAz9CnnXofhmcA)
 - [PowerShell Master Class](https://www.youtube.com/playlist?list=PLlVtbbG169nFq_hR7FcMYg32xsSAObuq8)
 
-# guide:
+# Topic:
+## Azure Resource Manager
 - [Getting Started with Azure PowerShell](https://youtu.be/RQMdJ-9-lxY)
+
+more:
 - [Azure Right Sizing and Scaling](https://youtu.be/oE9YCVjzaKs)
