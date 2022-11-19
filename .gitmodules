@@ -1,0 +1,3 @@
+[submodule "Azure/Azure-PowerShell"]
+	path = Azure/Azure-PowerShell
+	url = https://github.com/UnicornCloud/Azure-PowerShell.git
