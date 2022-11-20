@@ -1,3 +1,5 @@
+# [guide: Getting Started with Azure PowerShell](https://youtu.be/RQMdJ-9-lxY)
+
 $location = "eastus"
 
 # Common Commands:
@@ -33,3 +35,14 @@ Get-AzVMImageOffer -Location $location -PublisherName "MicrosoftWindowsServer"
 Get-AzVMImageSku -Location $location -PublisherName "MicrosoftWindowsServer" -Offer "WindowsServer"
 
 Get-AzVMImage -Location $location -PublisherName "MicrosoftWindowsServer" -Offer "WindowsServer" -Skus "2019-Datacenter-core"
+
+# View extensions available
+Get-AzVMImagePublisher - Location $location | `
+
+Get-AzVMExtensionImageType | `
+
+Get-AzVMExtensionImage | Select Type, Version
+
+# Resource Graph
+# [guide:](https://www.youtube.com/watch?v=RQMdJ-9-lxY&t=2870s)
+Import-Module Az.ResourceGraph
