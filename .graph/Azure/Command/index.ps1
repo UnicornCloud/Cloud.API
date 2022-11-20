@@ -18,7 +18,7 @@ Get-AzLocation
 ## Size allowed per region
 Get-AzVMSize -Location $location
 
-#View VMs
+# View VMs
 Get-AzVM
 
 # Running
