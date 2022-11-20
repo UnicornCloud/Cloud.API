@@ -46,3 +46,5 @@ Get-AzVMExtensionImage | Select Type, Version
 # Resource Graph
 # [guide:](https://www.youtube.com/watch?v=RQMdJ-9-lxY&t=2870s)
 Import-Module Az.ResourceGraph
+
+# prime: https://github.com/johnthebrit/RandomStuff/blob/master/PowerShellStuff/AzGettingStarted.ps1
